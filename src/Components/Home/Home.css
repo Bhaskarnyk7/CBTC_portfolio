@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.homecontainer{
+    display: flex;
+}
+.homedivs{
+height: 90vh;
+width: 100%;
+background-color: black;
+
+display: flex; 
+justify-content: space-around;
+align-items: center;
+
+}
+.leftbox{
+    height: 50vh;
+    width: 450px;
+  
+    color: white;
+}
+.rightbox{
+    height: 70vh;
+    width: 350px;
+    background-color: rgb(201, 8, 8);
+    background-image: url(pic.jpg);
+    background-size: cover;
+}

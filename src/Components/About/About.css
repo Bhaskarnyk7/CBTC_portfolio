@@ -1,0 +1,81 @@
+.aboutcontainer{
+    margin: 0;
+    padding: 0;
+   
+}
+.aboutdivs{
+   display: flex;
+   justify-content: center;
+   height: 90vh;
+   width: 100%;
+   background-color: black;
+  
+   display: flex;
+   justify-content: center;
+
+   
+}
+.maindiv{
+    height: 90vh;
+    width: 55%;
+    background-color: black;
+}
+.heading1{
+    color: rgb(245, 239, 239);
+}
+
+.uiux1{
+    height: 13vh;
+   width: 55;
+    background-color: blue;
+    margin-top: 20px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    
+}
+.uipic{
+    height: 13vh;
+    width: 90px;
+    background-color: rgb(241, 235, 235);
+    background-image: url(images.jpg);
+    background-size: cover;
+    margin-right: 40px;
+}
+.uiux2{
+    height: 13vh;
+    width: 55;
+    background-color: blue;
+    margin-top: 20px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+.uipic2{
+    height: 13vh;
+    width: 90px;
+    background-color: rgb(241, 235, 235);
+    background-image: url(images\ \(1\).jpg);
+    background-size: cover;
+    margin-right: 40px;
+    
+}
+.uiux3{
+    height: 13vh;
+    width: 55;
+    background-color: blue;
+    margin-top: 20px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+.uipic3{
+    height: 13vh;
+    width: 90px;
+    background-color: rgb(241, 235, 235);
+    background-image: url(java2.jpg);
+    background-size: contain;
+    background-size: cover;
+    margin-right: 40px;
+    
+}
